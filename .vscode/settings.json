@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "c:\\Users\\KiwiTech\\source\\repos\\pys\\env\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
+}
